@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jiexinwang959@gmail.com
-  phone: 152 1005 2030
+  #phone: 152 1005 2030
   address:
     street: No.59, Zhongguancun Street
     city: Haidian District
