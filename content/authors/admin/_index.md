@@ -27,13 +27,13 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Renmin University of China
-      year: 2021
+      year: 2021-Present
     - course: Mechanical engineering
       institution: Harbin Institute of Technology
-      year: 2019
+      year: 2019-2021
     - course: Mechanical design and manufacturing and automation
       institution: China University of Petroleum,Beijing
-      year: 2015
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,9 +69,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jiexin Wang now is a Ph.D student in Gaoling School of Artifical Intelligent, Renmin University of China. Currently, his research interests include machine learing, computer vision, and his research aims to build  explainable algorithms to effectively and quickly predict human motion based on the temporal and spatial characteristics of partial motion video. His email is jiexinwang959@gmail.com or 2021000183@ruc.edu.cn, please contact him if you are interested.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
