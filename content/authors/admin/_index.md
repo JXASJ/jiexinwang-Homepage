@@ -14,7 +14,7 @@ organizations:
     url: https://www.ruc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jiexin Wang now is a Ph.D student in Gaoling School of Artifical Intelligent, Renmin University of China. Currently, his research interests include machine learing, computer vision, and his research aims to build  explainable algorithms to effectively and quickly predict human motion based on the temporal and spatial characteristics of partial motion video. His email is jiexinwang959@gmail.com or 2021000183@ruc.edu.cn, please contact him if you are interested.
+bio: Jiexin Wang now is a Ph.D student in Gaoling School of Artifical Intelligent, Renmin University of China. Currently, his research interests include machine learing, computer vision, and his research aims to build  explainable algorithms to effectively and quickly predict human motion based on the temporal and spatial characteristics of partial motion video. His email is jiexinwang959@gmail.com, please contact him if you are interested.
 
 # Interests to show in About widget
 interests:
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
