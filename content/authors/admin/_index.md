@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph.D in Artificial Intelligence
       institution: Renmin University of China
       year: 2021-Present
-    - course: Mechanical engineering
+    - course: M.S. Mechanical engineering
       institution: Harbin Institute of Technology
       year: 2019-2021
-    - course: Mechanical design and manufacturing and automation
+    - course: B.S. Mechanical design and manufacturing and automation
       institution: China University of Petroleum,Beijing
       year: 2015-2019
 
