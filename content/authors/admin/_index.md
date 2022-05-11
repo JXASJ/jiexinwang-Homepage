@@ -28,10 +28,10 @@ education:
     - course: Ph.D in Artificial Intelligence
       institution: Renmin University of China
       year: 2021-Present
-    - course: M.S. Mechanical engineering
+    - course: M.S. in Mechanical engineering
       institution: Harbin Institute of Technology
       year: 2019-2021
-    - course: B.S. Mechanical design and manufacturing and automation
+    - course: B.S. in Mechanical design and manufacturing and automation
       institution: China University of Petroleum,Beijing
       year: 2015-2019
 
